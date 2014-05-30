@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1377230499 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/SDL client/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDL/SDL_net.h"
+
+1378898668 et.h"
+
+1378898668 source:c:\users\turupawn\desktop\cliente serv\sdl client\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+
+1379660464 source:/home/turupawn/Desktop/Cliente serv/SDL client/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	<iostream>
+
+1379660464 source:/home/turupawn/Projects/Codeblocks/SDL client/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	<iostream>
+
+1379660464 source:/media/turupawn/4d926b76-57e4-478c-b4eb-bdde7593ca80/home/turupawn/Projects/Codeblocks/Clases/test/SDL client/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	<iostream>
+
+1379660464 source:/home/turupawn/Projects/Codeblocks/Clases/Cliente servidor bueno/test/SDL client/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	"SDL/SDL.h"
+	"SDL/SDL_net.h"
+	<iostream>
+

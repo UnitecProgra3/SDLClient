@@ -1,0 +1,3 @@
+Enter Message, or Q to make the server quit:
+Sending: holas
+SDLNet_TCP_Send: 
